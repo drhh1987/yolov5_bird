@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_train</folder>  
+	  <filename>Artic_Tern_0092_141849.jpg</filename>  
+	  <path>CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0092_141849.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>405</width>    
+		    <height>500</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Artic_Tern</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>78</xmin>      
+			      <ymin>54</ymin>      
+			      <xmax>358</xmax>      
+			      <ymax>458</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

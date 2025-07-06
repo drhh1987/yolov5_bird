@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Bay_Breasted_Warbler_0028_797119.jpg</filename>  
+	  <path>CUB_200_2011/images/158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0028_797119.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>200</width>    
+		    <height>247</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Bay_breasted_Warbler</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>2</xmin>      
+			      <ymin>2</ymin>      
+			      <xmax>194</xmax>      
+			      <ymax>226</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

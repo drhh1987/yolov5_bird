@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Anna_Hummingbird_0074_56917.jpg</filename>  
+	  <path>CUB_200_2011/images/067.Anna_Hummingbird/Anna_Hummingbird_0074_56917.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>500</width>    
+		    <height>448</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Anna_Hummingbird</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>127</xmin>      
+			      <ymin>62</ymin>      
+			      <xmax>353</xmax>      
+			      <ymax>377</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

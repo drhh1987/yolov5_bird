@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_train</folder>  
+	  <filename>Brandt_Cormorant_0072_23069.jpg</filename>  
+	  <path>CUB_200_2011/images/023.Brandt_Cormorant/Brandt_Cormorant_0072_23069.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>331</width>    
+		    <height>500</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Brandt_Cormorant</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>125</xmin>      
+			      <ymin>45</ymin>      
+			      <xmax>324</xmax>      
+			      <ymax>313</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

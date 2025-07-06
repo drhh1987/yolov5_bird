@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_train</folder>  
+	  <filename>American_Three_Toed_Woodpecker_0039_796168.jpg</filename>  
+	  <path>CUB_200_2011/images/187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0039_796168.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>300</width>    
+		    <height>367</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>American_Three_toed_Woodpecker</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>35</xmin>      
+			      <ymin>25</ymin>      
+			      <xmax>259</xmax>      
+			      <ymax>364</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_train</folder>  
+	  <filename>Barn_Swallow_0021_130367.jpg</filename>  
+	  <path>CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0021_130367.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>500</width>    
+		    <height>333</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Barn_Swallow</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>190</xmin>      
+			      <ymin>83</ymin>      
+			      <xmax>356</xmax>      
+			      <ymax>293</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

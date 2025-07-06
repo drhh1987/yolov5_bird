@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Baird_Sparrow_0044_794554.jpg</filename>  
+	  <path>CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0044_794554.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>500</width>    
+		    <height>342</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Baird_Sparrow</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>208</xmin>      
+			      <ymin>106</ymin>      
+			      <xmax>377</xmax>      
+			      <ymax>311</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

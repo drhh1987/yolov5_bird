@@ -1,0 +1,47 @@
+<RCC>
+  <qresource prefix="images">
+    <file>icons/models.png</file>
+    <file>icons/model.png</file>
+    <file>icons/video.png</file>
+    <file>icons/back-image.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/save.png</file>
+    <file>icons/author.png</file>
+    <file>icons/Ordinateur.png</file>
+    <file>icons/Score.png</file>
+    <file>icons/count.png</file>
+    <file>icons/selection.png</file>
+    <file>icons/person.png</file>
+    <file>icons/tally.png</file>
+    <file>icons/tracking.png</file>
+    <file>icons/Cute_Vehicle.png</file>
+    <file>icons/recovery.png</file>
+    <file>icons/folder_web.png</file>
+    <file>icons/g1.png</file>
+    <file>icons/net_speed.png</file>
+    <file>icons/result.png</file>
+    <file>icons/ini-image.png</file>
+    <file>icons/versions.png</file>
+  </qresource>
+  <qresource prefix="login">
+    <file>icons/captcha_1.png</file>
+    <file>icons/bird-logo.png</file>
+    <file>icons/logo4.png</file>
+    <file>icons/extractLeft.png</file>
+    <file>icons/minmax.png</file>
+    <file>icons/person1.gif</file>
+    <file>icons/user1.png</file>
+    <file>icons/checked.png</file>
+    <file>icons/check.png</file>
+    <file>icons/logo1.png</file>
+    <file>icons/logo2.png</file>
+    <file>icons/logo3.png</file>
+    <file>icons/person.gif</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>tools/bigsize.png</file>
+    <file>tools/smallsize.png</file>
+    <file>tools/home.png</file>
+    <file>tools/楷体_GB2312.ttf</file>
+  </qresource>
+</RCC>

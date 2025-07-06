@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_train</folder>  
+	  <filename>Black_Tern_0063_144731.jpg</filename>  
+	  <path>CUB_200_2011/images/142.Black_Tern/Black_Tern_0063_144731.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>500</width>    
+		    <height>400</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Black_Tern</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>46</xmin>      
+			      <ymin>137</ymin>      
+			      <xmax>409</xmax>      
+			      <ymax>332</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

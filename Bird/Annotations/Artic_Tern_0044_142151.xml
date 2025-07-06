@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Artic_Tern_0044_142151.jpg</filename>  
+	  <path>CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0044_142151.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>500</width>    
+		    <height>334</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Artic_Tern</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>5</xmin>      
+			      <ymin>77</ymin>      
+			      <xmax>420</xmax>      
+			      <ymax>311</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>
