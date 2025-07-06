@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Blue_Grosbeak_0087_36780.jpg</filename>  
+	  <path>CUB_200_2011/images/054.Blue_Grosbeak/Blue_Grosbeak_0087_36780.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>500</width>    
+		    <height>320</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Blue_Grosbeak</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>44</xmin>      
+			      <ymin>113</ymin>      
+			      <xmax>348</xmax>      
+			      <ymax>257</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

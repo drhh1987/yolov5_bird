@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_train</folder>  
+	  <filename>Black_Billed_Cuckoo_0069_795326.jpg</filename>  
+	  <path>CUB_200_2011/images/031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0069_795326.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>333</width>    
+		    <height>500</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Black_billed_Cuckoo</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>66</xmin>      
+			      <ymin>167</ymin>      
+			      <xmax>314</xmax>      
+			      <ymax>449</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

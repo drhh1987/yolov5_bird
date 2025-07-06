@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Brown_Creeper_0001_24449.jpg</filename>  
+	  <path>CUB_200_2011/images/028.Brown_Creeper/Brown_Creeper_0001_24449.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>402</width>    
+		    <height>500</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Brown_Creeper</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>116</xmin>      
+			      <ymin>65</ymin>      
+			      <xmax>271</xmax>      
+			      <ymax>450</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

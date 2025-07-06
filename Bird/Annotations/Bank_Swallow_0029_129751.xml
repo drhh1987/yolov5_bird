@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Bank_Swallow_0029_129751.jpg</filename>  
+	  <path>CUB_200_2011/images/135.Bank_Swallow/Bank_Swallow_0029_129751.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>500</width>    
+		    <height>333</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Bank_Swallow</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>75</xmin>      
+			      <ymin>93</ymin>      
+			      <xmax>313</xmax>      
+			      <ymax>286</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

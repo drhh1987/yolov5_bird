@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Black_Footed_Albatross_0037_796120.jpg</filename>  
+	  <path>CUB_200_2011/images/001.Black_footed_Albatross/Black_Footed_Albatross_0037_796120.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>448</width>    
+		    <height>272</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Black_footed_Albatross</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>111</xmin>      
+			      <ymin>42</ymin>      
+			      <xmax>244</xmax>      
+			      <ymax>261</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

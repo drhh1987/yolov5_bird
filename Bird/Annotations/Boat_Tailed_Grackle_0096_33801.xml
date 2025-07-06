@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Boat_Tailed_Grackle_0096_33801.jpg</filename>  
+	  <path>CUB_200_2011/images/049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0096_33801.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>500</width>    
+		    <height>347</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Boat_tailed_Grackle</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>190</xmin>      
+			      <ymin>98</ymin>      
+			      <xmax>346</xmax>      
+			      <ymax>202</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>American_Goldfinch_0105_32238.jpg</filename>  
+	  <path>CUB_200_2011/images/047.American_Goldfinch/American_Goldfinch_0105_32238.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>342</width>    
+		    <height>500</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>American_Goldfinch</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>61</xmin>      
+			      <ymin>95</ymin>      
+			      <xmax>246</xmax>      
+			      <ymax>410</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

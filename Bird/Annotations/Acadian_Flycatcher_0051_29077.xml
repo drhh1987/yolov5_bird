@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Acadian_Flycatcher_0051_29077.jpg</filename>  
+	  <path>CUB_200_2011/images/037.Acadian_Flycatcher/Acadian_Flycatcher_0051_29077.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>388</width>    
+		    <height>500</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Acadian_Flycatcher</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>41</xmin>      
+			      <ymin>41</ymin>      
+			      <xmax>258</xmax>      
+			      <ymax>473</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

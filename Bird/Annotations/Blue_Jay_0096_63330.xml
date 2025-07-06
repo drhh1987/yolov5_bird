@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Blue_Jay_0096_63330.jpg</filename>  
+	  <path>CUB_200_2011/images/073.Blue_Jay/Blue_Jay_0096_63330.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>500</width>    
+		    <height>389</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Blue_Jay</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>57</xmin>      
+			      <ymin>81</ymin>      
+			      <xmax>342</xmax>      
+			      <ymax>303</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

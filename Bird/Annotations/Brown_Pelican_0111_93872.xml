@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_train</folder>  
+	  <filename>Brown_Pelican_0111_93872.jpg</filename>  
+	  <path>CUB_200_2011/images/100.Brown_Pelican/Brown_Pelican_0111_93872.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>375</width>    
+		    <height>500</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Brown_Pelican</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>63</xmin>      
+			      <ymin>154</ymin>      
+			      <xmax>317</xmax>      
+			      <ymax>420</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

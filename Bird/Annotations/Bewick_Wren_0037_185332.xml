@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Bewick_Wren_0037_185332.jpg</filename>  
+	  <path>CUB_200_2011/images/193.Bewick_Wren/Bewick_Wren_0037_185332.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>484</width>    
+		    <height>500</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Bewick_Wren</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>11</xmin>      
+			      <ymin>176</ymin>      
+			      <xmax>311</xmax>      
+			      <ymax>390</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

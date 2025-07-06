@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_train</folder>  
+	  <filename>Bohemian_Waxwing_0117_177858.jpg</filename>  
+	  <path>CUB_200_2011/images/185.Bohemian_Waxwing/Bohemian_Waxwing_0117_177858.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>415</width>    
+		    <height>500</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Bohemian_Waxwing</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>20</xmin>      
+			      <ymin>124</ymin>      
+			      <xmax>341</xmax>      
+			      <ymax>480</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

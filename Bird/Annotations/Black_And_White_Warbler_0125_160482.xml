@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Black_And_White_Warbler_0125_160482.jpg</filename>  
+	  <path>CUB_200_2011/images/159.Black_and_white_Warbler/Black_And_White_Warbler_0125_160482.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>500</width>    
+		    <height>400</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Black_and_white_Warbler</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>161</xmin>      
+			      <ymin>74</ymin>      
+			      <xmax>376</xmax>      
+			      <ymax>343</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

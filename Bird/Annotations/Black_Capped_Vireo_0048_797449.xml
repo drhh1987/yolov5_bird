@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>  
+	  <folder>bird_test</folder>  
+	  <filename>Black_Capped_Vireo_0048_797449.jpg</filename>  
+	  <path>CUB_200_2011/images/151.Black_capped_Vireo/Black_Capped_Vireo_0048_797449.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>333</width>    
+		    <height>430</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>Black_capped_Vireo</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>60</xmin>      
+			      <ymin>43</ymin>      
+			      <xmax>281</xmax>      
+			      <ymax>331</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>
